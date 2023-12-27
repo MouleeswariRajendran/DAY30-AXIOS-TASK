@@ -1,0 +1,87 @@
+
+.span-email-content{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  text-indent: 100px;
+}
+
+.span-content{
+  font-family: 'Times New Roman', Times, serif;
+  word-spacing: 2px;
+  text-indent: 50px;
+}
+
+.heading{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading-content{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.view-container{
+  background-color:violet;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.view-cart{
+
+background-color: pink;
+padding: 20px;
+
+
+
+}
+
+.create-user{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  margin-top: 20px;
+}
+
+.para{
+  font-style: italic;
+}
+
+.heading-create{
+ background-color: lightskyblue;
+ padding: 20px;
+ margin-top: 10px;
+}
+
+.create-container{
+  background-color: aquamarine;
+}
+
+
+.edit-container{
+  background-color: papayawhip;
+
+}
+
+.heading-edit{
+  background-color: pink;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#navbarNav{
+  font-size: 20px;
+  color: white;
+}
+
+#navbarNav:hover{
+
+  font-size: 25px;
+  color:white;
+}
+
+
+.text{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
